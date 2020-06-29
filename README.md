@@ -1,6 +1,8 @@
 # Articles
 Published Articles
 
+A. M. d. Carvalho and R. C. Prati, "Improving kNN classification under Unbalanced Data. A New Geometric Oversampling Approach," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-6, doi: 10.1109/IJCNN.2018.8489411.
+
 CARVALHO, A.M.; SEVEGNANI; SARTORI; "Fault Detection System with Noninvasive Magnetic Passive Sensor and Support Vectors Machine" (https://www.compumag2011.com/) Julho de 2011, Sidney, Austrália.
  
 ALCANTARA JR., N. P DE ; CARVALHO, A. M. “A Methodology Based on FEM and Artificial Neural Networks for Defects Identification in Metallic Tubes”. In: V INDUSCON - Conferência de Aplicações Industriais, Salvador – Bahia, Anais Eletrônicos, 2002, p. 191-196.
